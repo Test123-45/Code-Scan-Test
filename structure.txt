@@ -1,0 +1,63 @@
+.
+├── .github
+│   └── workflows
+│       ├── CSV_Export.yml
+│       ├── codeql.yml
+│       └── generate-file-structure.yml
+├── BackEnd
+│   ├── auth
+│   │   └── verifyToken.js
+│   ├── config.js
+│   ├── controller
+│   │   └── app.js
+│   ├── model
+│   │   ├── databaseConfig.js
+│   │   ├── images.js
+│   │   ├── likes.js
+│   │   ├── listing.js
+│   │   ├── offer.js
+│   │   └── user.js
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── public
+│   │   ├── 50-1581241713214.jpg
+│   │   ├── Air-Jordan-1-Retro-Low-Travis-Scott-Product-1581251985871.jpg
+│   │   ├── BAPE-x-MCM-Camo-Zip-Hoodie-Brown-1581248898688.jpg
+│   │   ├── GitHub-1609999590009.appref-ms
+│   │   ├── OffWhiteXAirMax90-1581252083619.jfif
+│   │   ├── Supreme-20th-Anniversary-Box-Logo-Tee-White-1581241779499.jpg
+│   │   ├── air-jordan-1-dior-release-info-4-1581248498871.jpg
+│   │   ├── blackbadanasupreme-1581253650812.jfif
+│   │   ├── crewneckashgrey-1581253492700.jfif
+│   │   ├── jordan-1-high-'85-1581251792615.jpg
+│   │   ├── off-white-marianna-1581248830797.jfif
+│   │   ├── redbadanasupreme-1581253625505.jpg
+│   │   ├── snapsell-1610007683525.sql
+│   │   ├── supreme-san-francisco-box-logo-tee-black-1581248766336.jfif
+│   │   ├── vlad-1581252129491.png
+│   │   └── yeezy-boost-350-v2-antlia-lundmark-synth-release-date-price-01-1581241820941.jpg
+│   └── server.js
+├── FrontEnd
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── public
+│   │   ├── css
+│   │   │   ├── listings.css
+│   │   │   ├── login.css
+│   │   │   └── viewlisting.css
+│   │   ├── editlisting.html
+│   │   ├── listings.html
+│   │   ├── loginPage.html
+│   │   ├── offers.html
+│   │   ├── searchlistings.html
+│   │   ├── sell.html
+│   │   ├── updateprofile.html
+│   │   ├── viewlisting.html
+│   │   └── viewprofile.html
+│   └── server.js
+├── README.md
+├── Set Up Instructions.txt
+├── snapsell.sql
+└── structure.txt
+
+11 directories, 50 files
